@@ -1,9 +1,6 @@
 <h1 align="center">Vishal H. Sortur</h1> <h3 align="center">Aspiring AIML Developer with Fullstack Development experience</h3> <p align="center"> <a href="https://vishalhs.netlify.app"><img src="https://img.shields.io/badge/Portfolio-vishalhs.netlify.app-000000?style=flat-square&logo=vercel&logoColor=white" /></a></p> <br>
-<div align="center"> <pre> &gt; whoami Vishal — CS&amp;E (Honours), ATME College of Engineering, Mysuru Based in Bengaluru / Mysuru, India
 
-> currently Exploring AI/ML — classical ML, CNNs, transformer fine-tuning, local LLM inference Full-stack development — React/Vite, Supabase, Expo, Tauri v2 </pre>
-
-</div> <br>
+<code>&gt; whoami</code><br> <code>&nbsp;&nbsp;Vishal — CS&amp;E (Honours), ATME College of Engineering, Mysuru</code><br> <code>&nbsp;&nbsp;Based in Bengaluru / Mysuru, India</code><br> <br> <code>&gt; currently</code><br> <code>&nbsp;&nbsp;Exploring AI/ML — classical ML, CNNs, transformer fine-tuning, local LLM inference</code><br> <code>&nbsp;&nbsp;Full-stack development — React/Vite, Supabase, Expo, Tauri v2</code> </p><br>
 
 Tech Stack
 <p align="left"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" /> </p> <br>

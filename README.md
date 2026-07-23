@@ -1,4 +1,4 @@
-<h1 align="center">Vishal H. Sortur</h1> <h3 align="center">Aspiring AIML Developer with Fullstack Development experience</h3> <p align="center"> <a href="https://vishalhs.netlify.app"><img src="https://img.shields.io/badge/Portfolio-vishalhs.netlify.app-000000?style=flat-square&logo=vercel&logoColor=white" /></a></p> <br>
+<h1 align="center">Vishal H. Sortur</h1> <h3 align="center">Aspiring AIML Developer with Fullstack Development experience</h3> <p align="center"> <a href="https://vishalhs.netlify.app"><img src="https://img.shields.io/badge/Portfolio-vishalhs.netlify.app-000000?style=flat-square&logo=netlify&logoColor=white" /></a></p> <br>
 
 <p align="left">
 <code>&gt; whoami</code><br>
@@ -62,7 +62,7 @@
 ## Connect
  
 <p align="left">
-  <a href="https://vishalhs.netlify.app"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://vishalhs.netlify.app"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vishal-h-sortur-5ab58332b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vishalsortur@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>

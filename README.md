@@ -28,6 +28,14 @@
 </p>
 <br>
 
+
+## Core Focus
+ 
+- **AI/ML** — classical ML classifiers, CNNs, transformer fine-tuning, local LLM inference
+- **Full-Stack Development** — React/Vite, Supabase, Expo, Tauri v2
+- **Lightweight & Self-Hostable Systems** — offline-capable, self-hostable solutions over heavy managed stacks
+<br>
+
 ## Current Projects
  
 - **GeoAttend** — multi-tenant B2B SaaS geo-fenced attendance platform with face verification. Expo mobile app + React/Vite/Tailwind admin dashboard + Supabase backend, AWS Rekognition for verification.

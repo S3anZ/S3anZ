@@ -66,7 +66,3 @@
 <a href="https://www.linkedin.com/in/vishal-h-sortur-5ab58332b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vishalsortur@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S3anZ&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>

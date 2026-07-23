@@ -27,11 +27,13 @@
 </p>
 <br>
 
-Current Projects
-GeoAttend — multi-tenant B2B SaaS geo-fenced attendance platform with face verification. Expo mobile app + React/Vite/Tailwind admin dashboard + Supabase backend, AWS Rekognition for verification.
-Calibration Desktop App — Tauri v2 desktop system for a calibration company client. Certificate tracking, quality assurance panels, automated calibration reminders via Supabase pg_cron + Edge Functions.
-Sri Mahalakshmi Temple Website — exploring a Google Stitch to Antigravity IDE design-to-code pipeline.
-Music Genre Classification — classical ML classifiers + CNN + fine-tuned Audio Spectrogram Transformer (AST), deployed via FastAPI on Hugging Face Spaces. Built during an AI & Cloud Computing internship.
-3D Sphere Audio Visualizer — real-time 3D audio visualization with Three.js + Web Audio API.
-Multilingual Voice Chatbot — Groq Whisper STT + Llama 3.3 70B + Svara-TTS, supporting English, Hindi, Kannada, Tamil, and Malayalam.
+## Current Projects
+ 
+- **GeoAttend** — multi-tenant B2B SaaS geo-fenced attendance platform with face verification. Expo mobile app + React/Vite/Tailwind admin dashboard + Supabase backend, AWS Rekognition for verification.
+- **Calibration Desktop App** — Tauri v2 desktop system for a calibration company client. Certificate tracking, quality assurance panels, automated calibration reminders via Supabase pg_cron + Edge Functions.
+- **Sri Mahalakshmi Temple Website** — exploring a Google Stitch to Antigravity IDE design-to-code pipeline.
+- **Music Genre Classification** — classical ML classifiers + CNN + fine-tuned Audio Spectrogram Transformer (AST), deployed via FastAPI on Hugging Face Spaces. Built during an AI & Cloud Computing internship.
+- **3D Sphere Audio Visualizer** — real-time 3D audio visualization with Three.js + Web Audio API.
+- **Multilingual Voice Chatbot** — Groq Whisper STT + Llama 3.3 70B + Svara-TTS, supporting English, Hindi, Kannada, Tamil, and Malayalam.
 <br>
+

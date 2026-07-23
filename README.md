@@ -11,6 +11,7 @@
 </p>
 
 <br>
+
 ## Tech Stack
  
 <p align="left">
@@ -37,3 +38,9 @@
 - **Multilingual Voice Chatbot** — Groq Whisper STT + Llama 3.3 70B + Svara-TTS, supporting English, Hindi, Kannada, Tamil, and Malayalam.
 <br>
 
+## Publications
+ 
+**IEEE Paper** — Multi-model conversational image-recognition system with dynamic routing
+Published in: [2026 3rd International Conference on Integrated Intelligence and Communication Systems (ICIICS)](https://ieeexplore.ieee.org/xpl/conhome/11539010/proceeding)
+Conference Location: Kalaburagi, India · Date of Conference: 20–21 February 2026 · Added to IEEE Xplore: 11 June 2026
+DOI: [10.1109/ICIICS67880.2026.11483580](https://doi.org/10.1109/ICIICS67880.2026.11483580) · Publisher: IEEE

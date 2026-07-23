@@ -1,9 +1,9 @@
-<h1 align="center">Vishal</h1> <h3 align="center">Aspiring AIML Developer with Fullstack Development experience</h3> <p align="center"> <a href="https://vishalhs.netlify.app"><img src="https://img.shields.io/badge/Portfolio-vishalhs.netlify.app-000000?style=flat-square&logo=vercel&logoColor=white" /></a></p> <br>
-> whoami
-  Vishal — CS&E (Honours), ATME College of Engineering, Mysuru
-  Based in Bengaluru / Mysuru, India
+<h1 align="center">Vishal H. Sortur</h1> <h3 align="center">Aspiring AIML Developer with Fullstack Development experience</h3> <p align="center"> <a href="https://vishalhs.netlify.app"><img src="https://img.shields.io/badge/Portfolio-vishalhs.netlify.app-000000?style=flat-square&logo=vercel&logoColor=white" /></a></p> <br>
+> whoami <br>
+  Vishal — CS&E (Honours), ATME College of Engineering, Mysuru <br>
+  Based in Bengaluru / Mysuru, India <br>
 
-> currently
-  Exploring AI/ML — classical ML, CNNs, transformer fine-tuning, local LLM inference
-  Full-stack development — React/Vite, Supabase, Expo, Tauri v2
+> currently <br>
+  Exploring AI/ML — classical ML, CNNs, transformer fine-tuning, local LLM inference <br>
+  Full-stack development — React/Vite, Supabase, Expo, Tauri v2 <br>
 <br>

@@ -1,6 +1,6 @@
 <h1 align="center">Vishal H. Sortur</h1> <h3 align="center">Aspiring AIML Developer with Fullstack Development experience</h3> <p align="center"> <a href="https://vishalhs.netlify.app"><img src="https://img.shields.io/badge/Portfolio-vishalhs.netlify.app-000000?style=flat-square&logo=vercel&logoColor=white" /></a></p> <br>
 
-<p align="center">
+<p align="left">
 <code>&gt; whoami</code><br>
 <code>&nbsp;&nbsp;Vishal — CS&amp;E (Honours), ATME College of Engineering, Mysuru</code><br>
 <code>&nbsp;&nbsp;Based in Bengaluru / Mysuru, India</code><br>
@@ -40,7 +40,21 @@
 
 ## Publications
  
-**IEEE Paper** — Multi-model conversational image-recognition system with dynamic routing
-Published in: [2026 3rd International Conference on Integrated Intelligence and Communication Systems (ICIICS)](https://ieeexplore.ieee.org/xpl/conhome/11539010/proceeding)
-Conference Location: Kalaburagi, India · Date of Conference: 20–21 February 2026 · Added to IEEE Xplore: 11 June 2026
-DOI: [10.1109/ICIICS67880.2026.11483580](https://doi.org/10.1109/ICIICS67880.2026.11483580) · Publisher: IEEE
+**IEEE Paper** — Empirical Evaluation of a Multi-Model Conversational Image Recognition System with Dynamic Routing and Real-Time Deployment
+ 
+- Published in: [2026 3rd International Conference on Integrated Intelligence and Communication Systems (ICIICS)](https://ieeexplore.ieee.org/xpl/conhome/11539010/proceeding)
+- Conference Location: Kalaburagi, India
+- Date of Conference: 20–21 February 2026
+- Date Added to IEEE Xplore: 11 June 2026
+- DOI: [10.1109/ICIICS67880.2026.11483580](https://doi.org/10.1109/ICIICS67880.2026.11483580)
+- Publisher: IEEE
+<br>
+## Connect
+ 
+<p align="left">
+  <a href="https://vishalhs.netlify.app"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
